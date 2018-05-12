@@ -1,0 +1,37 @@
+_repo: Freaks-of-Fanaticismand-Other-Strange-Events_43601
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43601-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Gould, S. Baring
+    - Gould, Sabine Baring
+    - Baring-Gould, Sabine
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+description: ''
+gutenberg_issued: '2013-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43601'
+  lccn: '46040665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mysticism'
+- !lcsh 'Patarines'
+- !lcc 'D'
+- !lcsh 'History'
+tableOfContents: A Swiss passion play -- A northern Raphael -- The poisoned parsnips
+  -- The murder of Father Thomas in Damascus -- Some accusations against Jews -- The
+  Coburg mausoleum -- Jean Aymon -- The Patarines of Milan -- The Anabaptist of Münster.
+title: Freaks of Fanaticism, and Other Strange Events
+url: http://www.gutenberg.org/ebooks/43601
